@@ -55,7 +55,7 @@ Para replicar o revisar el análisis en un entorno local, siga estos pasos:
 
 1. Clonar el repositorio en su equipo local:
    ```bash
-   git clone https://github.com/lfmen/AEDFormula1.git
+   git clone https://github.com/lfmen/aedformula1.git
    ```
 2. Abrir el archivo `analisis_f1.Rmd` utilizando **RStudio**.
 3. Asegurarse de tener instalados los paquetes necesarios ejecutando:
